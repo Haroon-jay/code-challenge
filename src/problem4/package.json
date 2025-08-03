@@ -1,0 +1,12 @@
+{
+  "name": "problem4",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+   "start": "node index.js"
+  },
+  "keywords": ["sum", "challenge"],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
